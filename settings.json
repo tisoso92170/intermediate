@@ -1,0 +1,12 @@
+{
+  "public": {
+    "ga": {
+      "account": "UA-XXXXXXXX-x"
+    }
+  },
+  "private": {
+    "stripe": {
+      "apiPrivate": ""
+    }
+  }
+}
