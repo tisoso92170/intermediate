@@ -1,0 +1,3 @@
+MediaStreamError.publish('recipes', function() {
+
+});
