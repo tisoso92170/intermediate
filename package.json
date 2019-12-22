@@ -9,13 +9,14 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.7.6",
+    "bcrypt": "^3.0.7",
     "jquery": "^3.4.1",
     "meteor-node-stubs": "^1.0.0"
   },
   "meteor": {
     "mainModule": {
-      "client": "client/main.js",
-      "server": "server/main.js"
+      "client": "index.js",
+      "server": "server/init.js"
     },
     "testModule": "tests/main.js"
   }
